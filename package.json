@@ -1,0 +1,12 @@
+{
+  "name": "vue-preset-kinth",
+  "version": "0.1.0",
+  "description": "vue-cli3 preset for kinth web",
+  "main": "prompts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
